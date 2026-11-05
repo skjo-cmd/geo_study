@@ -1,0 +1,66 @@
+{
+  "program": {
+    "id": "geo-study-01",
+    "title": "GEO Study · 검색 기반 만들기",
+    "totalWeeks": 4,
+    "phaseLabel": "SEARCH FOUNDATION",
+    "phaseTitle": "검색 기반 만들기",
+    "goal": "기준선 리포트 완성",
+    "note": "주차 번호는 반드시 1..totalWeeks 범위로 clamp 한다. 벤치마크 사이트는 상한이 없어 경과 주 수(16)가 그대로 노출되는 버그가 있었다."
+  },
+  "weeks": {
+    "1": {
+      "title": "SEO·GEO·AEO 이해하기",
+      "items": [
+        { "id": "week1-seo-geo-aeo-basics", "title": "SEO, GEO, AEO의 차이와 역할을 이해했다", "time": "약 20분" }
+      ]
+    },
+    "2": {
+      "title": "실험 사이트 준비와 검색엔진 등록",
+      "items": [
+        { "id": "site-ready", "title": "이번 주 실험할 사이트와 대표 URL 확정하기", "time": "약 10분" },
+        { "id": "search-console", "title": "Google Search Console 속성 등록하기", "time": "약 20분" },
+        { "id": "sitemap", "title": "sitemap 제출하고 상태 기록하기", "time": "약 15분" },
+        { "id": "site-performance", "title": "사이트 성능 검사 해보고 부족한 부분 개선하기", "time": "약 30분" },
+        { "id": "case-study", "title": "사례글 작성하기", "time": "약 30분" }
+      ]
+    },
+    "3": {
+      "title": "목표·키워드 설정과 기술 기반 다지기",
+      "items": [
+        { "id": "week3-visitor-action", "title": "내 사이트를 통해 만들고 싶은 결과를 정했어요." },
+        { "id": "week3-target-keywords", "title": "내 사이트를 찾는 사람이 검색할 질문/키워드를 5개 이상 정했어요." },
+        { "id": "week3-new-page", "title": "새롭게 추가하거나 분리할 페이지를 1개 이상 기획·제작했다" },
+        { "id": "week3-onsite-offsite", "title": "(리서치) On-site와 Off-site 전략을 알아보고 개선할 방법을 찾았다" },
+        { "id": "week3-robots", "title": "robots.txt를 등록했다" },
+        { "id": "week3-sitemap-settings", "title": "sitemap.xml을 확인하고 필요한 설정을 적용했다" },
+        { "id": "week3-search-snippet", "title": "스니펫(구조화된 데이터)을 내 사이트 또는 글에 적용했다" },
+        { "id": "week3-case-study", "title": "사례글을 1개 이상 작성했다" },
+        { "id": "week3-eeat", "title": "(리서치) E-E-A-T 요소를 내 글에 적용했다" },
+        { "id": "week3-llms-txt", "title": "(리서치) llms.txt를 등록했다" },
+        { "id": "week3-google-analytics", "title": "(심화) Google Analytics 등록하기" }
+      ]
+    },
+    "4": {
+      "title": "AI 노출 측정과 기준선 리포트",
+      "items": [
+        { "id": "week4-ai-question-set", "title": "내 사이트와 관련된 AI 질문 세트 만들기" },
+        { "id": "week4-ai-answer-review", "title": "실제 AI 답변을 확인하고 브랜드 노출 여부와 경쟁 사례 살펴보기" },
+        { "id": "week4-search-intent-measurement", "title": "검색 인텐트를 고려해 질문을 만들고 측정하는 방법 고민하기" },
+        { "id": "week4-ai-visibility-measurement", "title": "AI Visibility를 체계적으로 측정하는 방법 알아보기 (선택)" },
+        { "id": "week4-google-analytics-report", "title": "Google Analytics에 사이트를 연동하고 맞춤 보고서 설정하기" },
+        { "id": "week4-case-study", "title": "사례글 1개 이상 작성하기" },
+        { "id": "week4-research-robots", "title": "robots.txt와 Meta Robots 태그", "category": "research" },
+        { "id": "week4-research-sitemap", "title": "사이트맵(sitemap.xml)", "category": "research" },
+        { "id": "week4-research-schema", "title": "스키마(구조화된 데이터)", "category": "research" },
+        { "id": "week4-research-on-off-page", "title": "온페이지(On-Page)와 오프페이지(Off-Page) 전략", "category": "research" },
+        { "id": "week4-research-backlinks", "title": "백링크", "category": "research", "isNew": true },
+        { "id": "week4-research-eeat", "title": "E-E-A-T", "category": "research" },
+        { "id": "week4-research-llms-txt", "title": "llms.txt", "category": "research" },
+        { "id": "week4-research-open-graph", "title": "오픈 그래프(Open Graph)", "category": "research", "isNew": true },
+        { "id": "week4-research-ai-visibility", "title": "AI Visibility", "category": "research", "isNew": true },
+        { "id": "week4-research-intent", "title": "검색 인텐트(Search Intent)", "category": "research", "isNew": true }
+      ]
+    }
+  }
+}
