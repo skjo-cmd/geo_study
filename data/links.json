@@ -1,0 +1,27 @@
+[
+  { "id": "naver-search-guide", "cat": "검색 문서", "title": "네이버 검색 가이드", "desc": "네이버 검색 노출과 웹사이트 최적화의 기본 원칙을 확인해요.", "url": "https://searchadvisor.naver.com/guide" },
+  { "id": "google-search-central", "cat": "검색 문서", "title": "Google Search Central", "desc": "Google 검색 크롤링, 색인, SEO 권장사항을 확인해요.", "url": "https://developers.google.com/search?hl=ko" },
+  { "id": "google-essentials", "cat": "검색 문서", "title": "Google 검색 Essentials", "desc": "Google 검색 노출을 위한 기술·스팸·콘텐츠 기본 요건을 확인해요.", "url": "https://developers.google.com/search/docs/essentials?hl=ko" },
+  { "id": "google-structured-data", "cat": "검색 문서", "title": "Google 구조화된 데이터 가이드", "desc": "Google 검색에서 구조화된 데이터가 작동하는 방식과 구현법을 알아봐요.", "url": "https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=ko" },
+  { "id": "naver-structured-data", "cat": "검색 문서", "title": "네이버 구조화된 데이터 가이드", "desc": "네이버 검색이 지원하는 구조화된 데이터 형식과 적용 방법을 확인해요.", "url": "https://searchadvisor.naver.com/guide/structured-data-intro" },
+  { "id": "bing-webmaster-docs", "cat": "검색 문서", "title": "Bing Webmaster 문서", "desc": "Bing 검색과 URL 제출, 웹마스터 API 문서를 살펴봅니다.", "url": "https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a" },
+  { "id": "llms-txt", "cat": "검색 문서", "title": "llms.txt 제안서", "desc": "AI 모델에게 사이트를 안내하는 llms.txt 형식과 예시를 확인해요.", "url": "https://llmstxt.org/" },
+
+  { "id": "gsc", "cat": "서치콘솔", "title": "Google Search Console", "desc": "Google 검색 실적, 색인 상태, 사이트맵을 관리해요.", "url": "https://search.google.com/search-console" },
+  { "id": "naver-sa", "cat": "서치콘솔", "title": "네이버 서치어드바이저", "desc": "네이버 수집·색인 현황과 사이트 진단 결과를 확인해요.", "url": "https://searchadvisor.naver.com/" },
+  { "id": "bing-wmt", "cat": "서치콘솔", "title": "Bing Webmaster Tools", "desc": "Bing 검색 실적과 사이트맵, URL 제출 상태를 관리해요.", "url": "https://www.bing.com/webmasters" },
+  { "id": "daum-register", "cat": "서치콘솔", "title": "다음 검색등록", "desc": "Daum 검색에 사이트와 정보를 등록해요.", "url": "https://register.search.daum.net/index.daum" },
+  { "id": "brave-submit", "cat": "서치콘솔", "title": "Brave URL 제출", "desc": "Brave Search에 URL 재수집과 인덱싱을 요청해요.", "url": "https://search.brave.com/help/submit-url" },
+
+  { "id": "psi", "cat": "측정", "title": "PageSpeed Insights", "desc": "웹페이지 성능과 Core Web Vitals 개선 항목을 측정해요.", "url": "https://pagespeed.web.dev/" },
+  { "id": "ga4", "cat": "측정", "title": "Google Analytics", "desc": "유입 경로와 페이지 조회, 전환을 측정해요.", "url": "https://analytics.google.com/" },
+  { "id": "schema-validator", "cat": "측정", "title": "Schema.org Validator", "desc": "구조화된 데이터 마크업이 올바른지 검증해요.", "url": "https://validator.schema.org/" },
+  { "id": "rich-results", "cat": "측정", "title": "리치 결과 테스트", "desc": "Google 리치 결과 노출 가능 여부를 확인해요.", "url": "https://search.google.com/test/rich-results?hl=ko" },
+
+  { "id": "google-trends", "cat": "트렌드 분석", "title": "Google Trends", "desc": "키워드 관심도 추이와 관련 검색어를 비교해요.", "url": "https://trends.google.com/trends/?geo=KR" },
+  { "id": "naver-datalab", "cat": "트렌드 분석", "title": "네이버 데이터랩", "desc": "네이버 검색어 트렌드와 쇼핑 인사이트를 확인해요.", "url": "https://datalab.naver.com/" },
+  { "id": "keyword-planner", "cat": "트렌드 분석", "title": "Google 키워드 플래너", "desc": "검색량과 경쟁도를 기준으로 키워드를 찾아요.", "url": "https://ads.google.com/intl/ko_kr/home/tools/keyword-planner/" },
+
+  { "id": "og-debugger", "cat": "유용한 도구", "title": "OpenGraph 미리보기", "desc": "링크 공유 시 보이는 제목·설명·이미지를 미리 확인해요.", "url": "https://www.opengraph.xyz/" },
+  { "id": "robots-tester", "cat": "유용한 도구", "title": "robots.txt 테스터", "desc": "robots.txt 규칙이 의도대로 동작하는지 확인해요.", "url": "https://technicalseo.com/tools/robots-txt/" }
+]
